@@ -1,5 +1,5 @@
 ---
-name: Accessibility Fix Agent
+name: Fix Agent
 ---
 
 ## Purpose
